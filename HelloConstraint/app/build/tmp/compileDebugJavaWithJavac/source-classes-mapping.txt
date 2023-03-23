@@ -1,0 +1,6 @@
+com/example/android/helloconstraint/BuildConfig.java
+ com.example.android.helloconstraint.BuildConfig
+com/example/android/helloconstraint/Colors.java
+ com.example.android.helloconstraint.Colors
+com/example/android/helloconstraint/MainActivity.java
+ com.example.android.helloconstraint.MainActivity
